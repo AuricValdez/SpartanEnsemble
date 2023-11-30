@@ -286,7 +286,7 @@ html {
             <div class="col-md-6">
             <input type="text" name="qrcodeResult" id="qrcodeResult" readonly class="form-control">
             <div class="date1">
-                <input type="text" name="firstName" id="firstName" placeholder="First Name" required>
+                <input type="text" name="firstName" id="firstName" placeholder="First Name  M.I." required>
             </div>
             <div class="date2">
                 <input type="text" name="lastName" id="lastName" placeholder="Last Name" required>

@@ -42,7 +42,7 @@ Usage >>>
 
 1. Register a faculty account by opening a browser and typing "localhost/SpartanEnsemble/addFaculty.php" (Note: Ignore this step if the user has already registered a faculty account beforehand into the database).
 
-2. Access the main system by opening a browser and typing "localhost/SpartanEnsemble/addFaculty.php".
+2. Access the main system by opening a browser and typing "localhost/SpartanEnsemble/login.php".
 
 3. Login to the system with your faculty account credentials.
 

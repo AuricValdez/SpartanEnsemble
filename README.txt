@@ -52,7 +52,7 @@ Usage >>>
 
 6. Have the students scan their QR codes to the camera. Once the system has scanned the qr code. The QR code textfield should be filled with random letters and numbers. Click attend.
 
-7. If students do not have a QR code registered to the database. Click "Register QR Code." Fill in the fields and have the system scan their QR code. Click "Register." Once registered, click "Back."
+7. If students do not have a QR code registered to the database. Click "Register QR Code." Fill in the fields and have the system scan their QR code (Note: Make sure to follow the values of the placeholders). Click "Register." Once registered, click "Back."
 
 8. If all present students have scanned their QR codes and have attended to the system. Click "End Attendance."
 

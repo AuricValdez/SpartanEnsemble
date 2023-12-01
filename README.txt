@@ -56,7 +56,7 @@ Usage >>>
 
 8. If all present students have scanned their QR codes and have attended to the system. Click "End Attendance."
 
-9. To view the attendees of the class. Click "View Attendance Logs." Select the necessary fields to view the students who attended a specific class which you have initiated in the system. Once fields are filled, clicl "Search."
+9. To view the attendees of the class. Click "View Attendance Logs." Select the necessary fields to view the students who attended a specific class which you have initiated in the system. Once fields are filled, click "Search."
 
 10. To remove a student from the attendance, click "Unattend" at the right side of the table aligning said student whom you wish to unattend.
 
